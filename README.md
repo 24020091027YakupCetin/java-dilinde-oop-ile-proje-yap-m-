@@ -35,3 +35,4 @@ Açıklama: Erişim belirleyiciler , yapıcı metotlar  `this` anahtar kelimesi 
 * **Dil: Java
 * **Geliştirme Ortamı (IDE): NetBeans IDE
 * **Konular: OOP, Encapsulation, Classes & Objects, Constructors, Methods, Access Modifiers
+* Linkedin Linki:https://lnkd.in/dZ3nVS64
